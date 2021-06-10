@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @umanivannan-conga
-- 👀 I’m interested in .net,LWC,Salesforce
+- 👀 I’m interested in dotnet, angular, blazor
 - 🌱 I’m currently learning Blazor
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me umamaheswaran1@gmail.com
